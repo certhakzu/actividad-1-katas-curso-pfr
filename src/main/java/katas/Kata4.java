@@ -1,8 +1,6 @@
 package katas;
 
-import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;
-import model.BoxArt;
 import model.MovieList;
 import util.DataUtil;
 
