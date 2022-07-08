@@ -18,3 +18,8 @@ Katas
 * Kata 9: Complex Query
 * Kata 10: Transforming a data structure
 * Kata 11: Transforming a more complex data structure
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+NOTA IMPORTANTE: este repositorio fué clonado de https://github.com/Sofka-XT/java8-functional-katas.git y esta siento desarrollado por mi persona (Piter Velasquez) para que cumpla dcon los requerimientos de utlizar las funciones pedidas, para devolver los datos necesarios y que los Test sean satisfechos.
